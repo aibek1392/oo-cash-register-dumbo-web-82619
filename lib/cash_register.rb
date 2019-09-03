@@ -10,6 +10,8 @@ class CashRegister
     @items = []
   end
   def add_item(title,price)
+    i=0 
+    i+=1
   end
 
 
